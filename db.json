@@ -6380,7 +6380,7 @@
   "image/jpeg": {
     "source": "iana",
     "compressible": false,
-    "extensions": ["jpeg","jpg","jpe"]
+    "extensions": ["jpeg","jpg","jpe","JPG"]
   },
   "image/jpm": {
     "source": "iana",
