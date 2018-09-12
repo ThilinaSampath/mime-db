@@ -6405,7 +6405,17 @@
   "image/png": {
     "source": "iana",
     "compressible": false,
-    "extensions": ["png"]
+    "extensions": ["png","PNG"]
+  },
+  "image/heic": {
+    "source": "iana",
+    "compressible": false,
+    "extensions": ["heic","HEIC"]
+  },
+  "image/heif": {
+    "source": "iana",
+    "compressible": false,
+    "extensions": ["heif","HEIF"]
   },
   "image/prs.btif": {
     "source": "iana",
